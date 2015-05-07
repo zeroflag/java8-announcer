@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+group = 'announcer'
+version = '1.0.0-SNAPSHOT'
+
+description = "A simple Smalltalk Announcers like library for Java 8"
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+dependencies {
+    compile group: 'junit', name: 'junit', version:'4.11'
+    compile group: 'org.jmock', name: 'jmock-junit4', version:'2.6.0'
+}
