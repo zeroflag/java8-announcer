@@ -1,3 +1,6 @@
+https://travis-ci.org/zeroflag/java8-announcer.svg?branch=master
+
+
 ```java
  Announcer announcer = new Announcer();
 
