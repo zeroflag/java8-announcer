@@ -1,4 +1,4 @@
-https://travis-ci.org/zeroflag/java8-announcer.svg?branch=master
+[![Build Status](https://travis-ci.org/zeroflag/java8-announcer.svg?branch=master)](https://travis-ci.org/zeroflag/java8-announcer)
 
 
 ```java
